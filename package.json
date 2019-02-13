@@ -1,21 +1,22 @@
 {
-  "name": "jianlou-api",
+  "name": "cd-api",
   "version": "0.0.1",
   "description": "node api for buying ticket",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gaofang/jianlou-api.git"
+    "url": "git+https://github.com/gaofang/cd-api.git"
   },
   "author": "gaofang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gaofang/jianlou-api/issues"
+    "url": "https://github.com/gaofang/cd-api/issues"
   },
-  "homepage": "https://github.com/gaofang/jianlou-api#readme",
+  "homepage": "https://github.com/gaofang/cd-api#readme",
   "dependencies": {
     "koa": "^2.5.2"
   }
